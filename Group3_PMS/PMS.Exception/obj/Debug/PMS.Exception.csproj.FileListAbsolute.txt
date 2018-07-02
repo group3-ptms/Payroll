@@ -1,0 +1,5 @@
+D:\Aniruddh\Assignment\Mini Project\C#\Group3_PMS\PMS.Exception\bin\Debug\PMS.Exception.dll
+D:\Aniruddh\Assignment\Mini Project\C#\Group3_PMS\PMS.Exception\bin\Debug\PMS.Exception.pdb
+D:\Aniruddh\Assignment\Mini Project\C#\Group3_PMS\PMS.Exception\obj\Debug\PMS.Exception.csprojResolveAssemblyReference.cache
+D:\Aniruddh\Assignment\Mini Project\C#\Group3_PMS\PMS.Exception\obj\Debug\PMS.Exception.dll
+D:\Aniruddh\Assignment\Mini Project\C#\Group3_PMS\PMS.Exception\obj\Debug\PMS.Exception.pdb

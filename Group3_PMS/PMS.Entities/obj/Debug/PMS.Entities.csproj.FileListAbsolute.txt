@@ -1,0 +1,5 @@
+D:\Aniruddh\Assignment\Mini Project\C#\Group3_PMS\PMS.Entities\bin\Debug\PMS.Entities.dll
+D:\Aniruddh\Assignment\Mini Project\C#\Group3_PMS\PMS.Entities\bin\Debug\PMS.Entities.pdb
+D:\Aniruddh\Assignment\Mini Project\C#\Group3_PMS\PMS.Entities\obj\Debug\PMS.Entities.dll
+D:\Aniruddh\Assignment\Mini Project\C#\Group3_PMS\PMS.Entities\obj\Debug\PMS.Entities.pdb
+D:\Aniruddh\Assignment\Mini Project\C#\Group3_PMS\PMS.Entities\obj\Debug\PMS.Entities.csprojResolveAssemblyReference.cache
